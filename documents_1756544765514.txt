@@ -122,5 +122,9 @@
     "/pick/about/usefull-links/": {
         "title": "Useful Links",
         "text": "Useful Links ​  Try Pick.trade ​  Follow us on X ​  Join our Discord ​  Join our Telegram announcement channel ​  Business inquiries ​  Contact the support"
+    },
+    "/pick/about/fundraising/": {
+        "title": "Fundraising",
+        "text": "Fundraising At Pick Trade"
     }
 }
