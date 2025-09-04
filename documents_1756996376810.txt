@@ -69,7 +69,7 @@
     },
     "/pick/the-platform/creator-rewards/": {
         "title": "Creator Rewards",
-        "text": "Creator Rewards When launching a token on Pick Trade, the first launchpad aggregator, developers must select the desired launchpad for token deployment. Each developer using Pick Trade for token deployment receives  two types of creator rewards : Rewards from the chosen launchpad : Developers can select from PumpFun, Let'sBonk, Boop, Believe App, Moonit or Moonshot, each offering varied creator reward structures. They can compare these options using our  comparison tool . Rewards from Pick.trade : Developers earn a 50% fee rebate from every transaction (buy/sell) processed on their token through  Pick.trade . Thus, a developer that launched his token through Pick Trade will get more creator rewards coming both from Pick Trade and the underlying launchpad."
+        "text": "Creator Rewards When launching a token on Pick Trade, the first launchpad aggregator, developers must select the desired launchpad for token deployment. Each developer using Pick Trade for token deployment receives  two types of creator rewards : Rewards from the chosen launchpad : Developers can select from PumpFun, Let'sBonk, Boop, Believe App, Moonit or Moonshot, each offering varied creator reward structures. They can compare these options using our  comparison tool . Rewards from Pick.trade : Developers earn a 30% fee rebate from every transaction (buy/sell) processed on their token through  Pick.trade . Thus, a developer that launched his token through Pick Trade will get more creator rewards coming both from Pick Trade and the underlying launchpad."
     },
     "/pick/the-platform/infrastructure/api/": {
         "title": "API",

@@ -45,7 +45,7 @@
     </style>
     <script>
         function getInitialTheme() {
-            const savedTheme = localStorage.getItem('theme') || 'light';
+            const savedTheme = localStorage.getItem('theme') || 'system';
             if (savedTheme === 'light' || savedTheme === 'dark') return savedTheme;
             return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
         }
@@ -720,7 +720,7 @@ footer{
                                             <sl-tree-item 
                                                 id="ypHSHqWefnrFwPLJOdF2K" 
                                                 style="--indent-level: 0"
-                                                
+                                                expanded
                                                 class="folder"
                                             >
                                                 <span>THE PLATFORM</span>
@@ -1271,8 +1271,8 @@ footer{
     import {preInitTree} from 'https://docs.pick.trade/_lib/pre.js';
     preInitTree();
     await initPage();
-    await initTheme('light');
-    await initSearch('https://docs.pick.trade', '1756993238613');
+    await initTheme('system');
+    await initSearch('https://docs.pick.trade', '1756996376810');
     document.documentElement.style.visibility = 'visible';
     document.documentElement.style.opacity = '1';
     initToc();

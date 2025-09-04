@@ -4848,7 +4848,7 @@
                 1180,
                 3.505,
                 1181,
-                3.505,
+                2.926,
                 1182,
                 2.926,
                 1183,
@@ -5437,6 +5437,8 @@
                 1.935,
                 1167,
                 1.683,
+                1181,
+                1.935,
                 1242,
                 1.935,
                 1243,
@@ -5546,30 +5548,28 @@
                 1295,
                 2.318,
                 1296,
-                2.318,
+                1.935,
                 1297,
                 1.935,
                 1298,
-                1.935,
+                2.318,
                 1299,
-                2.318,
+                1.935,
                 1300,
-                1.935,
-                1301,
                 2.318,
-                1302,
+                1301,
                 1.935,
+                1302,
+                2.318,
                 1303,
                 2.318,
                 1304,
                 2.318,
                 1305,
-                2.318,
-                1306,
                 1.935,
-                1307,
+                1306,
                 2.318,
-                1308,
+                1307,
                 2.318
             ]
         ],
@@ -5711,16 +5711,18 @@
                 2.71,
                 1283,
                 2.357,
+                1296,
+                2.71,
                 1297,
-                2.71,
-                1298,
                 4.159,
-                1300,
+                1299,
                 2.71,
-                1302,
+                1301,
                 2.71,
-                1306,
+                1305,
                 2.71,
+                1308,
+                3.247,
                 1309,
                 3.247,
                 1310,
@@ -5754,9 +5756,9 @@
                 1324,
                 3.247,
                 1325,
-                3.247,
-                1326,
                 4.395,
+                1326,
+                3.247,
                 1327,
                 3.247,
                 1328,
@@ -5768,9 +5770,9 @@
                 1331,
                 3.247,
                 1332,
-                3.247,
-                1333,
                 3.669,
+                1333,
+                3.247,
                 1334,
                 3.247,
                 1335,
@@ -5780,12 +5782,10 @@
                 1337,
                 3.247,
                 1338,
-                3.247,
-                1339,
                 2.71,
-                1340,
+                1339,
                 3.247,
-                1341,
+                1340,
                 3.247
             ]
         ],
@@ -6005,8 +6005,10 @@
                 1.877,
                 1277,
                 2.158,
-                1333,
+                1332,
                 3.678,
+                1341,
+                2.586,
                 1342,
                 2.586,
                 1343,
@@ -6064,19 +6066,19 @@
                 1369,
                 2.586,
                 1370,
-                2.586,
-                1371,
                 3.747,
+                1371,
+                2.586,
                 1372,
                 2.586,
                 1373,
                 2.586,
                 1374,
-                2.586,
+                2.158,
                 1375,
                 2.158,
                 1376,
-                2.158,
+                2.586,
                 1377,
                 2.586,
                 1378,
@@ -6086,8 +6088,6 @@
                 1380,
                 2.586,
                 1381,
-                2.586,
-                1382,
                 2.586
             ]
         ],
@@ -6096,7 +6096,7 @@
             [
                 1014,
                 2.005,
-                1383,
+                1382,
                 2.597
             ]
         ],
@@ -6235,30 +6235,32 @@
                 2.607,
                 1283,
                 2.267,
-                1383,
+                1382,
                 4.077,
+                1383,
+                3.123,
                 1384,
                 3.123,
                 1385,
-                3.123,
-                1386,
                 4.077,
+                1386,
+                3.123,
                 1387,
                 3.123,
                 1388,
                 3.123,
                 1389,
-                3.123,
-                1390,
                 4.28,
+                1390,
+                3.123,
                 1391,
                 3.123,
                 1392,
-                3.123,
+                4.28,
                 1393,
                 4.28,
                 1394,
-                4.28,
+                3.123,
                 1395,
                 3.123,
                 1396,
@@ -6306,9 +6308,9 @@
                 1417,
                 3.123,
                 1418,
-                3.123,
-                1419,
                 4.28,
+                1419,
+                3.123,
                 1420,
                 3.123,
                 1421,
@@ -6326,9 +6328,9 @@
                 1427,
                 3.123,
                 1428,
-                3.123,
-                1429,
                 4.28,
+                1429,
+                3.123,
                 1430,
                 3.123,
                 1431,
@@ -6338,15 +6340,13 @@
                 1433,
                 3.123,
                 1434,
-                3.123,
-                1435,
                 3.123
             ]
         ],
         [
             "title//pick/the-board/roadmap/",
             [
-                1436,
+                1435,
                 3.257
             ]
         ],
@@ -6639,14 +6639,16 @@
                 2.153,
                 1238,
                 1.584,
-                1339,
+                1338,
                 1.584,
-                1375,
+                1374,
                 2.476,
-                1376,
+                1375,
+                1.584,
+                1435,
                 1.584,
                 1436,
-                1.584,
+                1.897,
                 1437,
                 1.897,
                 1438,
@@ -6666,11 +6668,11 @@
                 1445,
                 1.897,
                 1446,
-                1.897,
+                2.967,
                 1447,
                 2.967,
                 1448,
-                2.967,
+                1.897,
                 1449,
                 1.897,
                 1450,
@@ -6690,9 +6692,9 @@
                 1457,
                 1.897,
                 1458,
-                1.897,
-                1459,
                 4.131,
+                1459,
+                1.897,
                 1460,
                 1.897,
                 1461,
@@ -6700,35 +6702,35 @@
                 1462,
                 1.897,
                 1463,
-                1.897,
+                4.131,
                 1464,
                 4.131,
                 1465,
-                4.131,
-                1466,
                 2.967,
-                1467,
+                1466,
                 3.653,
+                1467,
+                1.897,
                 1468,
                 1.897,
                 1469,
-                1.897,
+                2.967,
                 1470,
-                2.967,
-                1471,
                 1.897,
-                1472,
+                1471,
                 1.584,
-                1473,
+                1472,
                 3.653,
-                1474,
+                1473,
                 2.967,
+                1474,
+                1.897,
                 1475,
                 1.897,
                 1476,
-                1.897,
-                1477,
                 2.967,
+                1477,
+                1.897,
                 1478,
                 1.897,
                 1479,
@@ -6814,15 +6816,13 @@
                 1519,
                 1.897,
                 1520,
-                1.897,
-                1521,
                 1.897
             ]
         ],
         [
             "title//pick/the-board/suggestions/",
             [
-                1522,
+                1521,
                 3.257
             ]
         ],
@@ -6853,10 +6853,12 @@
                 1.644,
                 1091,
                 3.5,
-                1472,
+                1471,
                 4.025,
-                1522,
+                1521,
                 4.71,
+                1522,
+                4.822,
                 1523,
                 4.822,
                 1524,
@@ -6864,8 +6866,6 @@
                 1525,
                 4.822,
                 1526,
-                4.822,
-                1527,
                 4.025
             ]
         ],
@@ -6876,7 +6876,7 @@
                 0.066,
                 504,
                 0.812,
-                1528,
+                1527,
                 2.159
             ]
         ],
@@ -6887,14 +6887,14 @@
                 0.132,
                 504,
                 1.622,
-                1528,
+                1527,
                 4.312
             ]
         ],
         [
             "title//pick/about/ressources/",
             [
-                1529,
+                1528,
                 3.257
             ]
         ],
@@ -6937,24 +6937,24 @@
                 3.963,
                 864,
                 3.446,
-                1529,
+                1528,
                 3.963,
+                1529,
+                4.747,
                 1530,
                 4.747,
                 1531,
                 4.747,
                 1532,
-                4.747,
-                1533,
                 4.747
             ]
         ],
         [
             "title//pick/about/usefull-links/",
             [
-                1534,
+                1533,
                 2.597,
-                1535,
+                1534,
                 2.597
             ]
         ],
@@ -6979,16 +6979,18 @@
                 4.009,
                 1091,
                 3.486,
-                1527,
+                1526,
+                4.009,
+                1533,
                 4.009,
                 1534,
                 4.009,
                 1535,
                 4.009,
                 1536,
-                4.009,
-                1537,
                 5.63,
+                1537,
+                4.803,
                 1538,
                 4.803,
                 1539,
@@ -6996,15 +6998,13 @@
                 1540,
                 4.803,
                 1541,
-                4.803,
-                1542,
                 4.009
             ]
         ],
         [
             "title//pick/about/fundraising/",
             [
-                1543,
+                1542,
                 3.257
             ]
         ],
@@ -7071,14 +7071,16 @@
                 2.986,
                 1252,
                 3.434,
-                1386,
+                1385,
                 3.434,
-                1536,
+                1535,
+                3.434,
+                1541,
                 3.434,
                 1542,
                 3.434,
                 1543,
-                3.434,
+                4.113,
                 1544,
                 4.113,
                 1545,
@@ -7112,8 +7114,6 @@
                 1559,
                 4.113,
                 1560,
-                4.113,
-                1561,
                 4.113
             ]
         ]
@@ -7139,7 +7139,7 @@
         [
             "$1",
             {
-                "_index": 1366,
+                "_index": 1365,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -7156,7 +7156,7 @@
         [
             "$1,000.",
             {
-                "_index": 1360,
+                "_index": 1359,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -7246,7 +7246,7 @@
         [
             "$pick,",
             {
-                "_index": 1544,
+                "_index": 1543,
                 "title": {},
                 "text": {
                     "/pick/about/fundraising/": {
@@ -7280,7 +7280,7 @@
         [
             "$sol",
             {
-                "_index": 1314,
+                "_index": 1313,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -7396,7 +7396,7 @@
         [
             "'s",
             {
-                "_index": 1397,
+                "_index": 1396,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -7464,7 +7464,7 @@
         [
             "(as",
             {
-                "_index": 1361,
+                "_index": 1360,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -7566,7 +7566,7 @@
         [
             "(lock,",
             {
-                "_index": 1456,
+                "_index": 1455,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -7617,7 +7617,7 @@
         [
             "(pumpfun,",
             {
-                "_index": 1433,
+                "_index": 1432,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -7634,7 +7634,7 @@
         [
             "(traders",
             {
-                "_index": 1320,
+                "_index": 1319,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -7668,7 +7668,7 @@
         [
             "(~1.2s).",
             {
-                "_index": 1395,
+                "_index": 1394,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -7685,7 +7685,7 @@
         [
             "(~3.5s).",
             {
-                "_index": 1407,
+                "_index": 1406,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -8067,7 +8067,7 @@
         [
             "01/07/25",
             {
-                "_index": 1420,
+                "_index": 1419,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -8084,7 +8084,7 @@
         [
             "01/09/25",
             {
-                "_index": 1385,
+                "_index": 1384,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -8101,7 +8101,7 @@
         [
             "03/07/25",
             {
-                "_index": 1417,
+                "_index": 1416,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -8118,7 +8118,7 @@
         [
             "07/06/25",
             {
-                "_index": 1427,
+                "_index": 1426,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -8135,7 +8135,7 @@
         [
             "07/08/25",
             {
-                "_index": 1403,
+                "_index": 1402,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -8219,7 +8219,7 @@
         [
             "11",
             {
-                "_index": 1424,
+                "_index": 1423,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -8236,7 +8236,7 @@
         [
             "11/07/25",
             {
-                "_index": 1415,
+                "_index": 1414,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -8253,7 +8253,7 @@
         [
             "12",
             {
-                "_index": 1425,
+                "_index": 1424,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -8270,7 +8270,7 @@
         [
             "15/08/25",
             {
-                "_index": 1399,
+                "_index": 1398,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -8287,7 +8287,7 @@
         [
             "16/07/25",
             {
-                "_index": 1411,
+                "_index": 1410,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -8304,7 +8304,7 @@
         [
             "17/06/25",
             {
-                "_index": 1422,
+                "_index": 1421,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -8338,7 +8338,7 @@
         [
             "18/08/25",
             {
-                "_index": 1396,
+                "_index": 1395,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -8355,7 +8355,7 @@
         [
             "20/08/25",
             {
-                "_index": 1392,
+                "_index": 1391,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -8372,7 +8372,7 @@
         [
             "23/05/25",
             {
-                "_index": 1431,
+                "_index": 1430,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -8389,7 +8389,7 @@
         [
             "23/07/25",
             {
-                "_index": 1408,
+                "_index": 1407,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -8406,7 +8406,7 @@
         [
             "25/08/25",
             {
-                "_index": 1388,
+                "_index": 1387,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -8423,7 +8423,7 @@
         [
             "250",
             {
-                "_index": 1359,
+                "_index": 1358,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -8440,7 +8440,7 @@
         [
             "28/06/25",
             {
-                "_index": 1421,
+                "_index": 1420,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -8457,7 +8457,7 @@
         [
             "2nd",
             {
-                "_index": 1389,
+                "_index": 1388,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -8474,9 +8474,17 @@
         [
             "30%",
             {
-                "_index": 1290,
+                "_index": 1181,
                 "title": {},
                 "text": {
+                    "/pick/the-platform/creator-rewards/": {
+                        "position": [
+                            [
+                                521,
+                                3
+                            ]
+                        ]
+                    },
                     "/pick/the-token/pick/official-token/": {
                         "position": [
                             [
@@ -8491,7 +8499,7 @@
         [
             "30/07/25",
             {
-                "_index": 1406,
+                "_index": 1405,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -8508,7 +8516,7 @@
         [
             "5%",
             {
-                "_index": 1305,
+                "_index": 1304,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/official-token/": {
@@ -8516,23 +8524,6 @@
                             [
                                 1765,
                                 2
-                            ]
-                        ]
-                    }
-                }
-            }
-        ],
-        [
-            "50%",
-            {
-                "_index": 1181,
-                "title": {},
-                "text": {
-                    "/pick/the-platform/creator-rewards/": {
-                        "position": [
-                            [
-                                521,
-                                3
                             ]
                         ]
                     }
@@ -8599,7 +8590,7 @@
         [
             "@creamvvv",
             {
-                "_index": 1560,
+                "_index": 1559,
                 "title": {},
                 "text": {
                     "/pick/about/fundraising/": {
@@ -9530,7 +9521,7 @@
         [
             "access,",
             {
-                "_index": 1517,
+                "_index": 1516,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -9564,7 +9555,7 @@
         [
             "accessibility,",
             {
-                "_index": 1489,
+                "_index": 1488,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -9581,7 +9572,7 @@
         [
             "accessibility.",
             {
-                "_index": 1455,
+                "_index": 1454,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -9598,7 +9589,7 @@
         [
             "accessible",
             {
-                "_index": 1507,
+                "_index": 1506,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -9770,7 +9761,7 @@
         [
             "achieve",
             {
-                "_index": 1379,
+                "_index": 1378,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -9850,7 +9841,7 @@
         [
             "achieves",
             {
-                "_index": 1346,
+                "_index": 1345,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -9884,7 +9875,7 @@
         [
             "acquiring",
             {
-                "_index": 1554,
+                "_index": 1553,
                 "title": {},
                 "text": {
                     "/pick/about/fundraising/": {
@@ -10149,7 +10140,7 @@
         [
             "added.",
             {
-                "_index": 1419,
+                "_index": 1418,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -10322,7 +10313,7 @@
         [
             "addresses",
             {
-                "_index": 1401,
+                "_index": 1400,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -10466,7 +10457,7 @@
         [
             "adopts",
             {
-                "_index": 1309,
+                "_index": 1308,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -10642,7 +10633,7 @@
         [
             "advertisements",
             {
-                "_index": 1322,
+                "_index": 1321,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -10676,7 +10667,7 @@
         [
             "advertising",
             {
-                "_index": 1301,
+                "_index": 1300,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/official-token/": {
@@ -10693,7 +10684,7 @@
         [
             "advice",
             {
-                "_index": 1523,
+                "_index": 1522,
                 "title": {},
                 "text": {
                     "/pick/the-board/suggestions/": {
@@ -10752,7 +10743,7 @@
         [
             "aggregating",
             {
-                "_index": 1443,
+                "_index": 1442,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -10924,7 +10915,7 @@
         [
             "airdrop",
             {
-                "_index": 1293,
+                "_index": 1292,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/official-token/": {
@@ -10941,7 +10932,7 @@
         [
             "airdrops",
             {
-                "_index": 1371,
+                "_index": 1370,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -10962,7 +10953,7 @@
         [
             "airdrops.",
             {
-                "_index": 1345,
+                "_index": 1344,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -11513,7 +11504,7 @@
         [
             "among",
             {
-                "_index": 1369,
+                "_index": 1368,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -11547,7 +11538,7 @@
         [
             "amount",
             {
-                "_index": 1306,
+                "_index": 1305,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/official-token/": {
@@ -12617,7 +12608,7 @@
         [
             "and/or",
             {
-                "_index": 1555,
+                "_index": 1554,
                 "title": {},
                 "text": {
                     "/pick/about/fundraising/": {
@@ -12651,7 +12642,7 @@
         [
             "announcement",
             {
-                "_index": 1539,
+                "_index": 1538,
                 "title": {},
                 "text": {
                     "/pick/about/usefull-links/": {
@@ -13133,7 +13124,7 @@
         [
             "applied.",
             {
-                "_index": 1414,
+                "_index": 1413,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -13150,7 +13141,7 @@
         [
             "applies",
             {
-                "_index": 1364,
+                "_index": 1363,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -13451,7 +13442,7 @@
         [
             "arrange",
             {
-                "_index": 1341,
+                "_index": 1340,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -13779,7 +13770,7 @@
         [
             "assistance",
             {
-                "_index": 1484,
+                "_index": 1483,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -13813,7 +13804,7 @@
         [
             "associated",
             {
-                "_index": 1498,
+                "_index": 1497,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -13957,7 +13948,7 @@
         [
             "attract",
             {
-                "_index": 1357,
+                "_index": 1356,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -13974,7 +13965,7 @@
         [
             "attractive,",
             {
-                "_index": 1504,
+                "_index": 1503,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -14008,7 +13999,7 @@
         [
             "audience",
             {
-                "_index": 1469,
+                "_index": 1468,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -14059,7 +14050,7 @@
         [
             "auto",
             {
-                "_index": 1486,
+                "_index": 1485,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -14203,7 +14194,7 @@
         [
             "avatars.",
             {
-                "_index": 1410,
+                "_index": 1409,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -14316,7 +14307,7 @@
         [
             "badges,",
             {
-                "_index": 1492,
+                "_index": 1491,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -14375,7 +14366,7 @@
         [
             "bank",
             {
-                "_index": 1481,
+                "_index": 1480,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -14426,7 +14417,7 @@
         [
             "base",
             {
-                "_index": 1514,
+                "_index": 1513,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -14656,7 +14647,7 @@
         [
             "beginners",
             {
-                "_index": 1471,
+                "_index": 1470,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -14690,7 +14681,7 @@
         [
             "being",
             {
-                "_index": 1307,
+                "_index": 1306,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/official-token/": {
@@ -14740,7 +14731,7 @@
         [
             "believe).",
             {
-                "_index": 1435,
+                "_index": 1434,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -14938,7 +14929,7 @@
         [
             "beta",
             {
-                "_index": 1390,
+                "_index": 1389,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -15120,7 +15111,7 @@
         [
             "blockchains",
             {
-                "_index": 1462,
+                "_index": 1461,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -15137,7 +15128,7 @@
         [
             "blockchains,",
             {
-                "_index": 1510,
+                "_index": 1509,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -15263,7 +15254,7 @@
         [
             "boosted",
             {
-                "_index": 1323,
+                "_index": 1322,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -15614,7 +15605,7 @@
         [
             "burn,",
             {
-                "_index": 1457,
+                "_index": 1456,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -15631,7 +15622,7 @@
         [
             "burned",
             {
-                "_index": 1327,
+                "_index": 1326,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -15648,7 +15639,7 @@
         [
             "burned.",
             {
-                "_index": 1308,
+                "_index": 1307,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/official-token/": {
@@ -15665,7 +15656,7 @@
         [
             "business",
             {
-                "_index": 1540,
+                "_index": 1539,
                 "title": {},
                 "text": {
                     "/pick/about/usefull-links/": {
@@ -16494,7 +16485,7 @@
         [
             "card,",
             {
-                "_index": 1482,
+                "_index": 1481,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -16528,7 +16519,7 @@
         [
             "cards.",
             {
-                "_index": 1430,
+                "_index": 1429,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -16604,7 +16595,7 @@
         [
             "cex",
             {
-                "_index": 1294,
+                "_index": 1293,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/official-token/": {
@@ -16702,7 +16693,7 @@
         [
             "channel",
             {
-                "_index": 1527,
+                "_index": 1526,
                 "title": {},
                 "text": {
                     "/pick/the-board/suggestions/": {
@@ -17271,7 +17262,7 @@
         [
             "color",
             {
-                "_index": 1413,
+                "_index": 1412,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -17288,7 +17279,7 @@
         [
             "colours.",
             {
-                "_index": 1426,
+                "_index": 1425,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -17364,7 +17355,7 @@
         [
             "commitment",
             {
-                "_index": 1438,
+                "_index": 1437,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -17381,7 +17372,7 @@
         [
             "committed",
             {
-                "_index": 1506,
+                "_index": 1505,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -17651,7 +17642,7 @@
         [
             "competition",
             {
-                "_index": 1368,
+                "_index": 1367,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -17668,7 +17659,7 @@
         [
             "competitions,",
             {
-                "_index": 1493,
+                "_index": 1492,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -17765,7 +17756,7 @@
         [
             "complexities.",
             {
-                "_index": 1521,
+                "_index": 1520,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -17996,7 +17987,7 @@
         [
             "connection",
             {
-                "_index": 1400,
+                "_index": 1399,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -18098,7 +18089,7 @@
         [
             "consistently",
             {
-                "_index": 1296,
+                "_index": 1295,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/official-token/": {
@@ -18200,7 +18191,7 @@
         [
             "contact",
             {
-                "_index": 1542,
+                "_index": 1541,
                 "title": {},
                 "text": {
                     "/pick/about/usefull-links/": {
@@ -18420,7 +18411,7 @@
         [
             "contest",
             {
-                "_index": 1343,
+                "_index": 1342,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -18437,7 +18428,7 @@
         [
             "contests",
             {
-                "_index": 1333,
+                "_index": 1332,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -18604,7 +18595,7 @@
         [
             "contributions",
             {
-                "_index": 1338,
+                "_index": 1337,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -19152,7 +19143,7 @@
         [
             "creators).",
             {
-                "_index": 1321,
+                "_index": 1320,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -19270,7 +19261,7 @@
         [
             "cross",
             {
-                "_index": 1520,
+                "_index": 1519,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -19287,7 +19278,7 @@
         [
             "crucial",
             {
-                "_index": 1316,
+                "_index": 1315,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -19465,7 +19456,7 @@
         [
             "custody",
             {
-                "_index": 1405,
+                "_index": 1404,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -19915,7 +19906,7 @@
         [
             "deliver",
             {
-                "_index": 1495,
+                "_index": 1494,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -20133,7 +20124,7 @@
         [
             "designated",
             {
-                "_index": 1325,
+                "_index": 1324,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -20183,7 +20174,7 @@
         [
             "designs",
             {
-                "_index": 1531,
+                "_index": 1530,
                 "title": {},
                 "text": {
                     "/pick/about/ressources/": {
@@ -20289,7 +20280,7 @@
         [
             "develop",
             {
-                "_index": 1474,
+                "_index": 1473,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -20503,7 +20494,7 @@
         [
             "developing",
             {
-                "_index": 1459,
+                "_index": 1458,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -20611,7 +20602,7 @@
         [
             "dexscreener's",
             {
-                "_index": 1428,
+                "_index": 1427,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -21039,7 +21030,7 @@
         [
             "doesn’t",
             {
-                "_index": 1362,
+                "_index": 1361,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -21056,7 +21047,7 @@
         [
             "donation",
             {
-                "_index": 1302,
+                "_index": 1301,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/official-token/": {
@@ -21198,7 +21189,7 @@
         [
             "dopamine",
             {
-                "_index": 1496,
+                "_index": 1495,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -21249,7 +21240,7 @@
         [
             "driven",
             {
-                "_index": 1437,
+                "_index": 1436,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -21602,7 +21593,7 @@
         [
             "ease.",
             {
-                "_index": 1479,
+                "_index": 1478,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -21619,7 +21610,7 @@
         [
             "easier",
             {
-                "_index": 1454,
+                "_index": 1453,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -21744,7 +21735,7 @@
         [
             "ecosystem.",
             {
-                "_index": 1550,
+                "_index": 1549,
                 "title": {},
                 "text": {
                     "/pick/about/fundraising/": {
@@ -22277,7 +22268,7 @@
         [
             "engagement.",
             {
-                "_index": 1311,
+                "_index": 1310,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -22799,7 +22790,7 @@
         [
             "equity,",
             {
-                "_index": 1556,
+                "_index": 1555,
                 "title": {},
                 "text": {
                     "/pick/about/fundraising/": {
@@ -22850,7 +22841,7 @@
         [
             "establish",
             {
-                "_index": 1376,
+                "_index": 1375,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -22934,7 +22925,7 @@
         [
             "etc)",
             {
-                "_index": 1458,
+                "_index": 1457,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -23059,7 +23050,7 @@
         [
             "evolves.",
             {
-                "_index": 1378,
+                "_index": 1377,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -23076,7 +23067,7 @@
         [
             "example,",
             {
-                "_index": 1354,
+                "_index": 1353,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -23426,7 +23417,7 @@
         [
             "experienced",
             {
-                "_index": 1448,
+                "_index": 1447,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -23701,7 +23692,7 @@
         [
             "facilitates",
             {
-                "_index": 1516,
+                "_index": 1515,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -24211,7 +24202,7 @@
         [
             "fees,",
             {
-                "_index": 1299,
+                "_index": 1298,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/official-token/": {
@@ -24588,7 +24579,7 @@
         [
             "focusing",
             {
-                "_index": 1511,
+                "_index": 1510,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -25210,7 +25201,7 @@
         [
             "frequently",
             {
-                "_index": 1349,
+                "_index": 1348,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -25503,7 +25494,7 @@
         [
             "from:",
             {
-                "_index": 1318,
+                "_index": 1317,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -25520,7 +25511,7 @@
         [
             "fuels",
             {
-                "_index": 1315,
+                "_index": 1314,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -25684,7 +25675,7 @@
         [
             "funded",
             {
-                "_index": 1297,
+                "_index": 1296,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/official-token/": {
@@ -25709,7 +25700,7 @@
         [
             "fundraising",
             {
-                "_index": 1543,
+                "_index": 1542,
                 "title": {
                     "/pick/about/fundraising/": {
                         "position": [
@@ -25911,7 +25902,7 @@
         [
             "games.",
             {
-                "_index": 1370,
+                "_index": 1369,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -26044,7 +26035,7 @@
         [
             "gaps",
             {
-                "_index": 1439,
+                "_index": 1438,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -26171,7 +26162,7 @@
         [
             "generated",
             {
-                "_index": 1317,
+                "_index": 1316,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -26188,7 +26179,7 @@
         [
             "generates",
             {
-                "_index": 1335,
+                "_index": 1334,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -26205,7 +26196,7 @@
         [
             "generator",
             {
-                "_index": 1423,
+                "_index": 1422,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -26239,7 +26230,7 @@
         [
             "giveaway",
             {
-                "_index": 1356,
+                "_index": 1355,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -26293,7 +26284,7 @@
         [
             "giveaways.",
             {
-                "_index": 1334,
+                "_index": 1333,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -26424,7 +26415,7 @@
         [
             "goal",
             {
-                "_index": 1375,
+                "_index": 1374,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -26470,7 +26461,7 @@
         [
             "going",
             {
-                "_index": 1453,
+                "_index": 1452,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -26652,7 +26643,7 @@
         [
             "growth.",
             {
-                "_index": 1509,
+                "_index": 1508,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -26720,7 +26711,7 @@
         [
             "half",
             {
-                "_index": 1326,
+                "_index": 1325,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -26928,7 +26919,7 @@
         [
             "hassle",
             {
-                "_index": 1519,
+                "_index": 1518,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -27104,7 +27095,7 @@
         [
             "here",
             {
-                "_index": 1532,
+                "_index": 1531,
                 "title": {},
                 "text": {
                     "/pick/about/ressources/": {
@@ -27121,7 +27112,7 @@
         [
             "here,",
             {
-                "_index": 1384,
+                "_index": 1383,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -27381,7 +27372,7 @@
         [
             "homepage",
             {
-                "_index": 1429,
+                "_index": 1428,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -27486,7 +27477,7 @@
         [
             "hosting",
             {
-                "_index": 1355,
+                "_index": 1354,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -27503,7 +27494,7 @@
         [
             "hosts.",
             {
-                "_index": 1350,
+                "_index": 1349,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -27656,7 +27647,7 @@
         [
             "hyperliquid.",
             {
-                "_index": 1515,
+                "_index": 1514,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -27853,7 +27844,7 @@
         [
             "impactful",
             {
-                "_index": 1512,
+                "_index": 1511,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -27870,7 +27861,7 @@
         [
             "implementation",
             {
-                "_index": 1404,
+                "_index": 1403,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -27921,7 +27912,7 @@
         [
             "importance",
             {
-                "_index": 1382,
+                "_index": 1381,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -27938,7 +27929,7 @@
         [
             "improve",
             {
-                "_index": 1490,
+                "_index": 1489,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -27955,7 +27946,7 @@
         [
             "improved",
             {
-                "_index": 1394,
+                "_index": 1393,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -28434,7 +28425,7 @@
         [
             "includes",
             {
-                "_index": 1470,
+                "_index": 1469,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -28600,7 +28591,7 @@
         [
             "incorporating",
             {
-                "_index": 1491,
+                "_index": 1490,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -28617,7 +28608,7 @@
         [
             "increase,",
             {
-                "_index": 1340,
+                "_index": 1339,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -28886,7 +28877,7 @@
         [
             "initial",
             {
-                "_index": 1292,
+                "_index": 1291,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/official-token/": {
@@ -29012,7 +29003,7 @@
         [
             "inquiries",
             {
-                "_index": 1541,
+                "_index": 1540,
                 "title": {},
                 "text": {
                     "/pick/about/usefull-links/": {
@@ -29193,7 +29184,7 @@
         [
             "integration,",
             {
-                "_index": 1452,
+                "_index": 1451,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -29555,7 +29546,7 @@
         [
             "interested",
             {
-                "_index": 1552,
+                "_index": 1551,
                 "title": {},
                 "text": {
                     "/pick/about/fundraising/": {
@@ -29606,7 +29597,7 @@
         [
             "internally",
             {
-                "_index": 1352,
+                "_index": 1351,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -29689,7 +29680,7 @@
         [
             "introduced",
             {
-                "_index": 1418,
+                "_index": 1417,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -29706,7 +29697,7 @@
         [
             "introducing",
             {
-                "_index": 1451,
+                "_index": 1450,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -29740,7 +29731,7 @@
         [
             "investing",
             {
-                "_index": 1553,
+                "_index": 1552,
                 "title": {},
                 "text": {
                     "/pick/about/fundraising/": {
@@ -29825,7 +29816,7 @@
         [
             "involves",
             {
-                "_index": 1442,
+                "_index": 1441,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -30475,7 +30466,7 @@
         [
             "join",
             {
-                "_index": 1537,
+                "_index": 1536,
                 "title": {},
                 "text": {
                     "/pick/about/usefull-links/": {
@@ -30496,7 +30487,7 @@
         [
             "jupiter,",
             {
-                "_index": 1445,
+                "_index": 1444,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -30622,7 +30613,7 @@
         [
             "landing",
             {
-                "_index": 1387,
+                "_index": 1386,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -30656,7 +30647,7 @@
         [
             "lasting",
             {
-                "_index": 1377,
+                "_index": 1376,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -31469,7 +31460,7 @@
         [
             "least",
             {
-                "_index": 1358,
+                "_index": 1357,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -31700,7 +31691,7 @@
         [
             "levels,",
             {
-                "_index": 1342,
+                "_index": 1341,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -31776,7 +31767,7 @@
         [
             "light",
             {
-                "_index": 1465,
+                "_index": 1464,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -31921,7 +31912,7 @@
         [
             "links",
             {
-                "_index": 1535,
+                "_index": 1534,
                 "title": {
                     "/pick/about/usefull-links/": {
                         "position": [
@@ -32006,7 +31997,7 @@
         [
             "listings",
             {
-                "_index": 1295,
+                "_index": 1294,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/official-token/": {
@@ -32279,7 +32270,7 @@
         [
             "lottery",
             {
-                "_index": 1502,
+                "_index": 1501,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -32333,7 +32324,7 @@
         [
             "loyal",
             {
-                "_index": 1374,
+                "_index": 1373,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -32434,7 +32425,7 @@
         [
             "major",
             {
-                "_index": 1391,
+                "_index": 1390,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -32946,7 +32937,7 @@
         [
             "media",
             {
-                "_index": 1530,
+                "_index": 1529,
                 "title": {},
                 "text": {
                     "/pick/about/ressources/": {
@@ -32963,7 +32954,7 @@
         [
             "meet",
             {
-                "_index": 1528,
+                "_index": 1527,
                 "title": {
                     "/pick/about/the-team/": {
                         "position": [
@@ -33200,7 +33191,7 @@
         [
             "million.",
             {
-                "_index": 1367,
+                "_index": 1366,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -33302,7 +33293,7 @@
         [
             "mix",
             {
-                "_index": 1313,
+                "_index": 1312,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -33610,7 +33601,7 @@
         [
             "moonit,",
             {
-                "_index": 1434,
+                "_index": 1433,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -33859,7 +33850,7 @@
         [
             "more.",
             {
-                "_index": 1477,
+                "_index": 1476,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -34004,7 +33995,7 @@
         [
             "multichain",
             {
-                "_index": 1467,
+                "_index": 1466,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -34297,7 +34288,7 @@
         [
             "needed,",
             {
-                "_index": 1485,
+                "_index": 1484,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -34816,7 +34807,7 @@
         [
             "occur",
             {
-                "_index": 1372,
+                "_index": 1371,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -36077,7 +36068,7 @@
         [
             "ones",
             {
-                "_index": 1513,
+                "_index": 1512,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -36242,7 +36233,7 @@
         [
             "opened",
             {
-                "_index": 1525,
+                "_index": 1524,
                 "title": {},
                 "text": {
                     "/pick/the-board/suggestions/": {
@@ -36763,7 +36754,7 @@
         [
             "organized",
             {
-                "_index": 1351,
+                "_index": 1350,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -36924,7 +36915,7 @@
         [
             "others,",
             {
-                "_index": 1446,
+                "_index": 1445,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -37167,7 +37158,7 @@
         [
             "out",
             {
-                "_index": 1559,
+                "_index": 1558,
                 "title": {},
                 "text": {
                     "/pick/about/fundraising/": {
@@ -37359,7 +37350,7 @@
         [
             "paid",
             {
-                "_index": 1319,
+                "_index": 1318,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -37435,7 +37426,7 @@
         [
             "participating",
             {
-                "_index": 1331,
+                "_index": 1330,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -37477,7 +37468,7 @@
         [
             "partnership",
             {
-                "_index": 1353,
+                "_index": 1352,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -37511,7 +37502,7 @@
         [
             "passwords.",
             {
-                "_index": 1402,
+                "_index": 1401,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -38403,7 +38394,7 @@
         [
             "plan",
             {
-                "_index": 1473,
+                "_index": 1472,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -38848,7 +38839,7 @@
         [
             "platforms,",
             {
-                "_index": 1450,
+                "_index": 1449,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -38865,7 +38856,7 @@
         [
             "play.",
             {
-                "_index": 1505,
+                "_index": 1504,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -38882,7 +38873,7 @@
         [
             "please",
             {
-                "_index": 1557,
+                "_index": 1556,
                 "title": {},
                 "text": {
                     "/pick/about/fundraising/": {
@@ -39311,7 +39302,7 @@
         [
             "predictions",
             {
-                "_index": 1501,
+                "_index": 1500,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -39345,7 +39336,7 @@
         [
             "premiums",
             {
-                "_index": 1300,
+                "_index": 1299,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/official-token/": {
@@ -39437,7 +39428,7 @@
         [
             "pressure",
             {
-                "_index": 1336,
+                "_index": 1335,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -39471,7 +39462,7 @@
         [
             "primarily",
             {
-                "_index": 1347,
+                "_index": 1346,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -39488,7 +39479,7 @@
         [
             "prior",
             {
-                "_index": 1547,
+                "_index": 1546,
                 "title": {},
                 "text": {
                     "/pick/about/fundraising/": {
@@ -39505,7 +39496,7 @@
         [
             "priority",
             {
-                "_index": 1488,
+                "_index": 1487,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -39556,7 +39547,7 @@
         [
             "pro",
             {
-                "_index": 1464,
+                "_index": 1463,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -39776,7 +39767,7 @@
         [
             "program",
             {
-                "_index": 1332,
+                "_index": 1331,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -39881,7 +39872,7 @@
         [
             "project's",
             {
-                "_index": 1549,
+                "_index": 1548,
                 "title": {},
                 "text": {
                     "/pick/about/fundraising/": {
@@ -40398,7 +40389,7 @@
         [
             "purchase",
             {
-                "_index": 1480,
+                "_index": 1479,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -40449,7 +40440,7 @@
         [
             "purposes:",
             {
-                "_index": 1291,
+                "_index": 1290,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/official-token/": {
@@ -40483,7 +40474,7 @@
         [
             "raising",
             {
-                "_index": 1548,
+                "_index": 1547,
                 "title": {},
                 "text": {
                     "/pick/about/fundraising/": {
@@ -40517,7 +40508,7 @@
         [
             "ramp.",
             {
-                "_index": 1398,
+                "_index": 1397,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -40534,7 +40525,7 @@
         [
             "randomly",
             {
-                "_index": 1373,
+                "_index": 1372,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -40673,7 +40664,7 @@
         [
             "reach",
             {
-                "_index": 1558,
+                "_index": 1557,
                 "title": {},
                 "text": {
                     "/pick/about/fundraising/": {
@@ -40690,7 +40681,7 @@
         [
             "reaches",
             {
-                "_index": 1365,
+                "_index": 1364,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -40749,7 +40740,7 @@
         [
             "reason,",
             {
-                "_index": 1472,
+                "_index": 1471,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -40849,7 +40840,7 @@
         [
             "recognize",
             {
-                "_index": 1381,
+                "_index": 1380,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -40992,7 +40983,7 @@
         [
             "related",
             {
-                "_index": 1463,
+                "_index": 1462,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -41009,7 +41000,7 @@
         [
             "release",
             {
-                "_index": 1386,
+                "_index": 1385,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -41198,7 +41189,7 @@
         [
             "replicate",
             {
-                "_index": 1449,
+                "_index": 1448,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -41397,7 +41388,7 @@
         [
             "resources.",
             {
-                "_index": 1533,
+                "_index": 1532,
                 "title": {},
                 "text": {
                     "/pick/about/ressources/": {
@@ -41498,7 +41489,7 @@
         [
             "ressources",
             {
-                "_index": 1529,
+                "_index": 1528,
                 "title": {
                     "/pick/about/ressources/": {
                         "position": [
@@ -41575,7 +41566,7 @@
         [
             "revealed",
             {
-                "_index": 1348,
+                "_index": 1347,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -41592,7 +41583,7 @@
         [
             "revenue",
             {
-                "_index": 1298,
+                "_index": 1297,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/official-token/": {
@@ -41868,7 +41859,7 @@
         [
             "rewards,",
             {
-                "_index": 1494,
+                "_index": 1493,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -41885,7 +41876,7 @@
         [
             "richer",
             {
-                "_index": 1440,
+                "_index": 1439,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -41944,7 +41935,7 @@
         [
             "roadmap",
             {
-                "_index": 1436,
+                "_index": 1435,
                 "title": {
                     "/pick/the-board/roadmap/": {
                         "position": [
@@ -41970,7 +41961,7 @@
         [
             "robust",
             {
-                "_index": 1447,
+                "_index": 1446,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -42037,7 +42028,7 @@
         [
             "rush",
             {
-                "_index": 1497,
+                "_index": 1496,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -42138,7 +42129,7 @@
         [
             "scheduled",
             {
-                "_index": 1545,
+                "_index": 1544,
                 "title": {},
                 "text": {
                     "/pick/about/fundraising/": {
@@ -42189,7 +42180,7 @@
         [
             "scrapes",
             {
-                "_index": 1432,
+                "_index": 1431,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -42206,7 +42197,7 @@
         [
             "scraping",
             {
-                "_index": 1476,
+                "_index": 1475,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -42274,7 +42265,7 @@
         [
             "screeners,",
             {
-                "_index": 1475,
+                "_index": 1474,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -42349,7 +42340,7 @@
         [
             "seamlessly,",
             {
-                "_index": 1518,
+                "_index": 1517,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -42768,7 +42759,7 @@
         [
             "september/october.",
             {
-                "_index": 1546,
+                "_index": 1545,
                 "title": {},
                 "text": {
                     "/pick/about/fundraising/": {
@@ -43110,7 +43101,7 @@
         [
             "several",
             {
-                "_index": 1409,
+                "_index": 1408,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -43302,7 +43293,7 @@
         [
             "significantly",
             {
-                "_index": 1339,
+                "_index": 1338,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -43385,7 +43376,7 @@
         [
             "simple",
             {
-                "_index": 1478,
+                "_index": 1477,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -43574,7 +43565,7 @@
         [
             "slippage",
             {
-                "_index": 1487,
+                "_index": 1486,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -43625,7 +43616,7 @@
         [
             "smartphones,",
             {
-                "_index": 1508,
+                "_index": 1507,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -44194,7 +44185,7 @@
         [
             "specifically",
             {
-                "_index": 1499,
+                "_index": 1498,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -44634,7 +44625,7 @@
         [
             "streamed",
             {
-                "_index": 1303,
+                "_index": 1302,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/official-token/": {
@@ -44920,7 +44911,7 @@
         [
             "strengthen",
             {
-                "_index": 1329,
+                "_index": 1328,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -44937,7 +44928,7 @@
         [
             "strengths",
             {
-                "_index": 1444,
+                "_index": 1443,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -45214,7 +45205,7 @@
         [
             "suggestion",
             {
-                "_index": 1526,
+                "_index": 1525,
                 "title": {},
                 "text": {
                     "/pick/the-board/suggestions/": {
@@ -45231,7 +45222,7 @@
         [
             "suggestions",
             {
-                "_index": 1522,
+                "_index": 1521,
                 "title": {
                     "/pick/the-board/suggestions/": {
                         "position": [
@@ -45355,7 +45346,7 @@
         [
             "supply,",
             {
-                "_index": 1328,
+                "_index": 1327,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -45475,7 +45466,7 @@
         [
             "supporting",
             {
-                "_index": 1460,
+                "_index": 1459,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -45551,7 +45542,7 @@
         [
             "sustainability",
             {
-                "_index": 1310,
+                "_index": 1309,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -45568,7 +45559,7 @@
         [
             "swap",
             {
-                "_index": 1393,
+                "_index": 1392,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -45785,7 +45776,7 @@
         [
             "target",
             {
-                "_index": 1468,
+                "_index": 1467,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -45971,7 +45962,7 @@
         [
             "telegram",
             {
-                "_index": 1538,
+                "_index": 1537,
                 "title": {},
                 "text": {
                     "/pick/about/usefull-links/": {
@@ -45988,7 +45979,7 @@
         [
             "telegram.",
             {
-                "_index": 1561,
+                "_index": 1560,
                 "title": {},
                 "text": {
                     "/pick/about/fundraising/": {
@@ -48318,7 +48309,7 @@
         [
             "this,",
             {
-                "_index": 1380,
+                "_index": 1379,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -48619,7 +48610,7 @@
         [
             "time.",
             {
-                "_index": 1337,
+                "_index": 1336,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -50779,7 +50770,7 @@
         [
             "trade.)",
             {
-                "_index": 1363,
+                "_index": 1362,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -51181,7 +51172,7 @@
         [
             "trading.",
             {
-                "_index": 1500,
+                "_index": 1499,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -51447,7 +51438,7 @@
         [
             "treasury,",
             {
-                "_index": 1312,
+                "_index": 1311,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -51481,7 +51472,7 @@
         [
             "tutorial",
             {
-                "_index": 1483,
+                "_index": 1482,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -51590,7 +51581,7 @@
         [
             "udpated.",
             {
-                "_index": 1416,
+                "_index": 1415,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -51607,7 +51598,7 @@
         [
             "ui",
             {
-                "_index": 1412,
+                "_index": 1411,
                 "title": {},
                 "text": {
                     "/pick/the-board/latest-updates/": {
@@ -52167,7 +52158,7 @@
         [
             "updates",
             {
-                "_index": 1383,
+                "_index": 1382,
                 "title": {
                     "/pick/the-board/latest-updates/": {
                         "position": [
@@ -52235,7 +52226,7 @@
         [
             "us",
             {
-                "_index": 1536,
+                "_index": 1535,
                 "title": {},
                 "text": {
                     "/pick/about/usefull-links/": {
@@ -52339,7 +52330,7 @@
         [
             "useful",
             {
-                "_index": 1534,
+                "_index": 1533,
                 "title": {
                     "/pick/about/usefull-links/": {
                         "position": [
@@ -53058,7 +53049,7 @@
         [
             "vault,",
             {
-                "_index": 1330,
+                "_index": 1329,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -53075,7 +53066,7 @@
         [
             "versatile",
             {
-                "_index": 1441,
+                "_index": 1440,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -53175,7 +53166,7 @@
         [
             "versions",
             {
-                "_index": 1466,
+                "_index": 1465,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -53387,7 +53378,7 @@
         [
             "videos",
             {
-                "_index": 1304,
+                "_index": 1303,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/official-token/": {
@@ -54082,7 +54073,7 @@
         [
             "week,",
             {
-                "_index": 1324,
+                "_index": 1323,
                 "title": {},
                 "text": {
                     "/pick/the-token/pick/treasury/": {
@@ -54099,7 +54090,7 @@
         [
             "welcome.",
             {
-                "_index": 1524,
+                "_index": 1523,
                 "title": {},
                 "text": {
                     "/pick/the-board/suggestions/": {
@@ -54587,7 +54578,7 @@
         [
             "wider",
             {
-                "_index": 1461,
+                "_index": 1460,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {
@@ -54725,7 +54716,7 @@
         [
             "winners",
             {
-                "_index": 1344,
+                "_index": 1343,
                 "title": {},
                 "text": {
                     "/pick/the-token/incentives/": {
@@ -55631,7 +55622,7 @@
         [
             "you're",
             {
-                "_index": 1551,
+                "_index": 1550,
                 "title": {},
                 "text": {
                     "/pick/about/fundraising/": {
@@ -55907,7 +55898,7 @@
         [
             "»,",
             {
-                "_index": 1503,
+                "_index": 1502,
                 "title": {},
                 "text": {
                     "/pick/the-board/roadmap/": {

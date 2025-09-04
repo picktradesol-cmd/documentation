@@ -45,7 +45,7 @@
     </style>
     <script>
         function getInitialTheme() {
-            const savedTheme = localStorage.getItem('theme') || 'light';
+            const savedTheme = localStorage.getItem('theme') || 'system';
             if (savedTheme === 'light' || savedTheme === 'dark') return savedTheme;
             return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
         }
@@ -720,7 +720,7 @@ footer{
                                             <sl-tree-item 
                                                 id="ypHSHqWefnrFwPLJOdF2K" 
                                                 style="--indent-level: 0"
-                                                
+                                                expanded
                                                 class="folder"
                                             >
                                                 <span>THE PLATFORM</span>
@@ -1190,13 +1190,13 @@ footer{
             <article>
                 <main>
                     <div class="content">
-                        <h1 id="creator-rewards" dir="ltr"><span style="white-space: pre-wrap;">Creator Rewards</span></h1><p dir="ltr"><span style="white-space: pre-wrap;">When launching a token on Pick Trade, the first launchpad aggregator, developers must select the desired launchpad for token deployment.</span></p><p dir="ltr"><span style="white-space: pre-wrap;">Each developer using Pick Trade for token deployment receives </span><b><strong class="text-bold" style="white-space: pre-wrap;">two types of creator rewards</strong></b><span style="white-space: pre-wrap;">:</span></p><ol><li value="1"><b><strong class="text-bold" style="white-space: pre-wrap;">Rewards from the chosen launchpad</strong></b><span style="white-space: pre-wrap;">: Developers can select from PumpFun, Let'sBonk, Boop, Believe App, Moonit or Moonshot, each offering varied creator reward structures. They can compare these options using our </span><a href="/o/fbzw88TiGbt9JjI71hLG/s/1qi0P2CYqb07w0SGAGHL/the-platform/interactive-blocks/launchpad-rate"><span style="white-space: pre-wrap;">comparison tool</span></a><span style="white-space: pre-wrap;">.</span></li><li value="2"><b><strong class="text-bold" style="white-space: pre-wrap;">Rewards from Pick.trade</strong></b><span style="white-space: pre-wrap;">: Developers earn a 50% fee rebate from every transaction (buy/sell) processed on their token through </span><a href="https://pick.trade/" target="_blank"><span style="white-space: pre-wrap;">Pick.trade</span></a><span style="white-space: pre-wrap;">.</span></li></ol><p dir="ltr"><span style="white-space: pre-wrap;">Thus, a developer that launched his token through Pick Trade will get more creator rewards coming both from Pick Trade and the underlying launchpad.</span></p>
+                        <h1 id="creator-rewards" dir="ltr"><span style="white-space: pre-wrap;">Creator Rewards</span></h1><p dir="ltr"><span style="white-space: pre-wrap;">When launching a token on Pick Trade, the first launchpad aggregator, developers must select the desired launchpad for token deployment.</span></p><p dir="ltr"><span style="white-space: pre-wrap;">Each developer using Pick Trade for token deployment receives </span><b><strong class="text-bold" style="white-space: pre-wrap;">two types of creator rewards</strong></b><span style="white-space: pre-wrap;">:</span></p><ol><li value="1"><b><strong class="text-bold" style="white-space: pre-wrap;">Rewards from the chosen launchpad</strong></b><span style="white-space: pre-wrap;">: Developers can select from PumpFun, Let'sBonk, Boop, Believe App, Moonit or Moonshot, each offering varied creator reward structures. They can compare these options using our </span><a href="/o/fbzw88TiGbt9JjI71hLG/s/1qi0P2CYqb07w0SGAGHL/the-platform/interactive-blocks/launchpad-rate"><span style="white-space: pre-wrap;">comparison tool</span></a><span style="white-space: pre-wrap;">.</span></li><li value="2"><b><strong class="text-bold" style="white-space: pre-wrap;">Rewards from Pick.trade</strong></b><span style="white-space: pre-wrap;">: Developers earn a 30% fee rebate from every transaction (buy/sell) processed on their token through </span><a href="https://pick.trade/" target="_blank"><span style="white-space: pre-wrap;">Pick.trade</span></a><span style="white-space: pre-wrap;">.</span></li></ol><p dir="ltr"><span style="white-space: pre-wrap;">Thus, a developer that launched his token through Pick Trade will get more creator rewards coming both from Pick Trade and the underlying launchpad.</span></p>
                     </div>
                 </main>
                 <div class="footer">
                     <div class="content">
                         <div class="date">
-                            <div>Aug 29, 2025</div>
+                            <div>Sep 4, 2025</div>
                         </div>
                         
                             <a href="/pick/the-platform/boosts-and-ads/" class="column left-column" title="Boosts & Ads">
@@ -1271,8 +1271,8 @@ footer{
     import {preInitTree} from 'https://docs.pick.trade/_lib/pre.js';
     preInitTree();
     await initPage();
-    await initTheme('light');
-    await initSearch('https://docs.pick.trade', '1756993238613');
+    await initTheme('system');
+    await initSearch('https://docs.pick.trade', '1756996376810');
     document.documentElement.style.visibility = 'visible';
     document.documentElement.style.opacity = '1';
     initToc();
