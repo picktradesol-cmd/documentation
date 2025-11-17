@@ -117,14 +117,10 @@
     },
     "/pick/about/ressources/": {
         "title": "Ressources",
-        "text": "Ressources If you would like to promote Pick Trade on social media or create designs to share with the community, here are some resources. Logo Pick Trade - Official logo Pick Trade - Transparent Background Pick Trade - Logo + Text Pick Trade - Logo + Text (svg) Banner Pick Trade - Official Banner Pick Trade - Banner with Character Pick Trade - Alternative Banner Backgrounds Light blue Light blue fade Dark blue fade Characters Pick Trade - Characters (svg)"
+        "text": "Ressources If you would like to promote Pick Trade on social media or create designs to share with the community, here are some resources. Logo Pick Trade - Official Logo Pick Trade - Logo no background Pick Trade - Logo (svg) Pick Trade - Alternative logo Pick Trade - Logo + Text Pick Trade - Logo + Text (svg) Banner Pick Trade - Official Banner Pick Trade - Banner with Character Pick Trade - Alternative Banner Characters Pick Trade - Characters (svg)"
     },
     "/pick/about/usefull-links/": {
         "title": "Useful Links",
         "text": "Useful Links \n   \n   \n Explore Pick.trade \n   \n Follow us on X \n   \n Join our Discord \n   \n Join our Telegram Announcement Channel \n   \n Business Inquiries \n   \n   \n Contact the Support"
-    },
-    "/pick/about/fundraising/": {
-        "title": "Fundraising",
-        "text": "Fundraising The Pick.trade platform and its official token, $PICK, are scheduled for public release in November. Prior to this launch, our team is raising funds to support the project's development and enhance the growth of the Pick Trade ecosystem. If you're interested in investing in our project and acquiring some of the supply and/or equity, please reach out to  @CreamVVV  on Telegram. \n   \n Contact us"
     }
 }
