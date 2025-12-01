@@ -176,7 +176,7 @@
                 78,
                 0.821,
                 79,
-                2.505,
+                2.221,
                 80,
                 2.886,
                 81,
@@ -322,7 +322,7 @@
                 76,
                 2.534,
                 79,
-                1.566,
+                1.388,
                 83,
                 0.53,
                 86,
@@ -402,7 +402,7 @@
                 128,
                 1.566,
                 129,
-                1.246,
+                1.388,
                 130,
                 0.938,
                 131,
@@ -1194,7 +1194,7 @@
                 128,
                 1.726,
                 129,
-                1.374,
+                1.53,
                 137,
                 1.068,
                 139,
@@ -1512,7 +1512,7 @@
                 78,
                 0.963,
                 79,
-                2.106,
+                1.867,
                 81,
                 1.439,
                 83,
@@ -5012,7 +5012,7 @@
                 121,
                 0.822,
                 129,
-                2.794,
+                3.112,
                 136,
                 2.184,
                 230,
@@ -6296,7 +6296,9 @@
                 71,
                 1.157,
                 78,
-                0.526,
+                0.791,
+                79,
+                1.424,
                 81,
                 1.026,
                 84,
@@ -6315,8 +6317,6 @@
                 0.683,
                 121,
                 0.723,
-                129,
-                1.279,
                 137,
                 0.481,
                 162,
@@ -6760,7 +6760,7 @@
                 122,
                 1.988,
                 129,
-                1.63,
+                1.816,
                 130,
                 1.227,
                 135,
@@ -7681,7 +7681,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1493,
+                                1494,
                                 2
                             ]
                         ]
@@ -7868,7 +7868,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                928,
+                                929,
                                 10
                             ]
                         ]
@@ -7936,7 +7936,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2278,
+                                2279,
                                 9
                             ]
                         ]
@@ -8012,7 +8012,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1058,
+                                1059,
                                 8
                             ]
                         ]
@@ -8029,7 +8029,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1243,
+                                1244,
                                 8
                             ]
                         ]
@@ -8046,7 +8046,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1451,
+                                1452,
                                 8
                             ]
                         ]
@@ -8063,7 +8063,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1774,
+                                1775,
                                 8
                             ]
                         ]
@@ -8415,11 +8415,11 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1349,
+                                1350,
                                 1
                             ],
                             [
-                                1420,
+                                1421,
                                 1
                             ]
                         ]
@@ -8498,7 +8498,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1967,
+                                1968,
                                 8
                             ]
                         ]
@@ -8515,7 +8515,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1300,
+                                1301,
                                 8
                             ]
                         ]
@@ -8532,7 +8532,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                845,
+                                846,
                                 8
                             ]
                         ]
@@ -8549,7 +8549,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1903,
+                                1904,
                                 8
                             ]
                         ]
@@ -8566,7 +8566,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                333,
+                                334,
                                 8
                             ]
                         ]
@@ -8583,7 +8583,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1252,
+                                1253,
                                 8
                             ]
                         ]
@@ -8600,7 +8600,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2144,
+                                2145,
                                 8
                             ]
                         ]
@@ -8617,7 +8617,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1618,
+                                1619,
                                 8
                             ]
                         ]
@@ -8684,7 +8684,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1214,
+                                1215,
                                 8
                             ]
                         ]
@@ -8718,7 +8718,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2118,
+                                2119,
                                 2
                             ]
                         ]
@@ -8735,7 +8735,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1866,
+                                1867,
                                 8
                             ]
                         ]
@@ -8752,7 +8752,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                772,
+                                773,
                                 8
                             ]
                         ]
@@ -8769,7 +8769,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2132,
+                                2133,
                                 2
                             ]
                         ]
@@ -8786,7 +8786,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                228,
+                                229,
                                 8
                             ]
                         ]
@@ -8803,7 +8803,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1162,
+                                1163,
                                 8
                             ]
                         ]
@@ -8820,7 +8820,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                367,
+                                368,
                                 2
                             ]
                         ]
@@ -8837,7 +8837,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1527,
+                                1528,
                                 8
                             ]
                         ]
@@ -8854,7 +8854,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1831,
+                                1832,
                                 8
                             ]
                         ]
@@ -8871,7 +8871,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                708,
+                                709,
                                 8
                             ]
                         ]
@@ -8888,7 +8888,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2071,
+                                2072,
                                 8
                             ]
                         ]
@@ -8939,7 +8939,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1460,
+                                1461,
                                 8
                             ]
                         ]
@@ -8973,7 +8973,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1422,
+                                1423,
                                 8
                             ]
                         ]
@@ -9007,7 +9007,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1067,
+                                1068,
                                 8
                             ]
                         ]
@@ -9024,7 +9024,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                618,
+                                619,
                                 8
                             ]
                         ]
@@ -9041,7 +9041,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2225,
+                                2226,
                                 8
                             ]
                         ]
@@ -9058,7 +9058,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1783,
+                                1784,
                                 8
                             ]
                         ]
@@ -9075,7 +9075,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1351,
+                                1352,
                                 8
                             ]
                         ]
@@ -9092,7 +9092,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1029,
+                                1030,
                                 8
                             ]
                         ]
@@ -9126,7 +9126,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2019,
+                                2020,
                                 8
                             ]
                         ]
@@ -9143,7 +9143,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1375,
+                                1376,
                                 3
                             ]
                         ]
@@ -9177,7 +9177,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1745,
+                                1746,
                                 8
                             ]
                         ]
@@ -9194,7 +9194,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                396,
+                                397,
                                 8
                             ]
                         ]
@@ -9211,7 +9211,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                869,
+                                870,
                                 3
                             ]
                         ]
@@ -9228,7 +9228,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                420,
+                                421,
                                 3
                             ]
                         ]
@@ -9867,27 +9867,27 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                450,
+                                451,
                                 1
                             ],
                             [
-                                939,
+                                940,
                                 1
                             ],
                             [
-                                985,
+                                986,
                                 1
                             ],
                             [
-                                1551,
+                                1552,
                                 1
                             ],
                             [
-                                1645,
+                                1646,
                                 1
                             ],
                             [
-                                1679,
+                                1680,
                                 1
                             ]
                         ]
@@ -10387,7 +10387,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1806,
+                                1807,
                                 11
                             ]
                         ]
@@ -10866,15 +10866,15 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1195,
+                                1196,
                                 5
                             ],
                             [
-                                1792,
+                                1793,
                                 5
                             ],
                             [
-                                2153,
+                                2154,
                                 5
                             ]
                         ]
@@ -10891,19 +10891,19 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                221,
+                                222,
                                 6
                             ],
                             [
-                                1293,
+                                1294,
                                 6
                             ],
                             [
-                                1960,
+                                1961,
                                 6
                             ],
                             [
-                                2012,
+                                2013,
                                 6
                             ]
                         ]
@@ -11089,7 +11089,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1593,
+                                1594,
                                 9
                             ]
                         ]
@@ -11727,7 +11727,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                203,
+                                204,
                                 8
                             ]
                         ]
@@ -11862,7 +11862,7 @@
                                 3
                             ],
                             [
-                                2256,
+                                2257,
                                 3
                             ]
                         ]
@@ -12247,7 +12247,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                596,
+                                597,
                                 4
                             ]
                         ]
@@ -12580,11 +12580,11 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                955,
+                                956,
                                 2
                             ],
                             [
-                                1508,
+                                1509,
                                 2
                             ]
                         ]
@@ -12617,7 +12617,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1120,
+                                1121,
                                 8
                             ]
                         ]
@@ -12675,7 +12675,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                502,
+                                503,
                                 7
                             ]
                         ]
@@ -13386,47 +13386,47 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                199,
+                                200,
                                 3
                             ],
                             [
-                                304,
+                                305,
                                 3
                             ],
                             [
-                                581,
+                                582,
                                 3
                             ],
                             [
-                                749,
+                                750,
                                 3
                             ],
                             [
-                                833,
+                                834,
                                 3
                             ],
                             [
-                                981,
+                                982,
                                 3
                             ],
                             [
-                                1013,
+                                1014,
                                 3
                             ],
                             [
-                                1135,
+                                1136,
                                 3
                             ],
                             [
-                                1603,
+                                1604,
                                 3
                             ],
                             [
-                                1698,
+                                1699,
                                 3
                             ],
                             [
-                                2128,
+                                2129,
                                 3
                             ]
                         ]
@@ -13945,14 +13945,6 @@
                             ]
                         ]
                     },
-                    "/pick/the-board/latest-updates/": {
-                        "position": [
-                            [
-                                167,
-                                3
-                            ]
-                        ]
-                    },
                     "/pick/the-board/roadmap/": {
                         "position": [
                             [
@@ -14138,7 +14130,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1857,
+                                1858,
                                 8
                             ]
                         ]
@@ -14649,7 +14641,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                760,
+                                761,
                                 2
                             ]
                         ]
@@ -14757,7 +14749,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2121,
+                                2122,
                                 6
                             ]
                         ]
@@ -15231,7 +15223,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2080,
+                                2081,
                                 6
                             ]
                         ]
@@ -15265,11 +15257,11 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1205,
+                                1206,
                                 8
                             ],
                             [
-                                1822,
+                                1823,
                                 8
                             ]
                         ]
@@ -15407,11 +15399,11 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                642,
+                                643,
                                 6
                             ],
                             [
-                                753,
+                                754,
                                 6
                             ]
                         ]
@@ -15445,7 +15437,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                547,
+                                548,
                                 7
                             ]
                         ]
@@ -15462,7 +15454,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1261,
+                                1262,
                                 4
                             ]
                         ]
@@ -15634,7 +15626,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                781,
+                                782,
                                 5
                             ]
                         ]
@@ -15801,23 +15793,23 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                254,
+                                255,
                                 4
                             ],
                             [
-                                601,
+                                602,
                                 4
                             ],
                             [
-                                1288,
+                                1289,
                                 4
                             ],
                             [
-                                1955,
+                                1956,
                                 4
                             ],
                             [
-                                2007,
+                                2008,
                                 4
                             ]
                         ]
@@ -15935,7 +15927,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2312,
+                                2313,
                                 9
                             ]
                         ]
@@ -16124,19 +16116,19 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                432,
+                                433,
                                 4
                             ],
                             [
-                                881,
+                                882,
                                 4
                             ],
                             [
-                                1387,
+                                1388,
                                 4
                             ],
                             [
-                                2057,
+                                2058,
                                 4
                             ]
                         ]
@@ -16427,7 +16419,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2298,
+                                2299,
                                 5
                             ]
                         ]
@@ -16627,7 +16619,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                987,
+                                988,
                                 5
                             ]
                         ]
@@ -16786,7 +16778,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2097,
+                                2098,
                                 5
                             ]
                         ]
@@ -17354,11 +17346,11 @@
                                 2
                             ],
                             [
-                                1666,
+                                1667,
                                 2
                             ],
                             [
-                                1939,
+                                1940,
                                 2
                             ]
                         ]
@@ -17804,7 +17796,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2218,
+                                2219,
                                 6
                             ]
                         ]
@@ -17933,11 +17925,11 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1515,
+                                1516,
                                 5
                             ],
                             [
-                                1915,
+                                1916,
                                 5
                             ]
                         ]
@@ -18062,7 +18054,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1184,
+                                1185,
                                 10
                             ]
                         ]
@@ -18613,7 +18605,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1847,
+                                1848,
                                 5
                             ]
                         ]
@@ -18630,7 +18622,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2135,
+                                2136,
                                 8
                             ]
                         ]
@@ -19182,7 +19174,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                457,
+                                458,
                                 13
                             ]
                         ]
@@ -19355,7 +19347,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1565,
+                                1566,
                                 10
                             ]
                         ]
@@ -20919,7 +20911,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1652,
+                                1653,
                                 7
                             ]
                         ]
@@ -20993,7 +20985,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1139,
+                                1140,
                                 13
                             ]
                         ]
@@ -21052,6 +21044,14 @@
                         "position": [
                             [
                                 375,
+                                4
+                            ]
+                        ]
+                    },
+                    "/pick/the-board/latest-updates/": {
+                        "position": [
+                            [
+                                167,
                                 4
                             ]
                         ]
@@ -21298,7 +21298,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2208,
+                                2209,
                                 9
                             ]
                         ]
@@ -21557,7 +21557,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                695,
+                                696,
                                 8
                             ]
                         ]
@@ -21658,7 +21658,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                807,
+                                808,
                                 6
                             ]
                         ]
@@ -22137,7 +22137,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2167,
+                                2168,
                                 13
                             ]
                         ]
@@ -23442,7 +23442,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1702,
+                                1703,
                                 11
                             ]
                         ]
@@ -23467,7 +23467,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1587,
+                                1588,
                                 5
                             ]
                         ]
@@ -25261,7 +25261,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                941,
+                                942,
                                 6
                             ]
                         ]
@@ -25394,7 +25394,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                972,
+                                973,
                                 8
                             ]
                         ]
@@ -25783,7 +25783,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1177,
+                                1178,
                                 6
                             ]
                         ]
@@ -25905,7 +25905,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                370,
+                                371,
                                 7
                             ]
                         ]
@@ -25999,11 +25999,11 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                736,
+                                737,
                                 5
                             ],
                             [
-                                2043,
+                                2044,
                                 5
                             ]
                         ]
@@ -26113,7 +26113,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                313,
+                                314,
                                 5
                             ]
                         ]
@@ -26514,31 +26514,31 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                378,
+                                379,
                                 3
                             ],
                             [
-                                487,
+                                488,
                                 3
                             ],
                             [
-                                1086,
+                                1087,
                                 3
                             ],
                             [
-                                1201,
+                                1202,
                                 3
                             ],
                             [
-                                1504,
+                                1505,
                                 3
                             ],
                             [
-                                1688,
+                                1689,
                                 3
                             ],
                             [
-                                1818,
+                                1819,
                                 3
                             ]
                         ]
@@ -27497,7 +27497,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                787,
+                                788,
                                 12
                             ]
                         ]
@@ -27782,7 +27782,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2087,
+                                2088,
                                 9
                             ]
                         ]
@@ -28463,11 +28463,11 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                250,
+                                251,
                                 3
                             ],
                             [
-                                592,
+                                593,
                                 3
                             ]
                         ]
@@ -28569,15 +28569,15 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1283,
+                                1284,
                                 4
                             ],
                             [
-                                1950,
+                                1951,
                                 4
                             ],
                             [
-                                2002,
+                                2003,
                                 4
                             ]
                         ]
@@ -28610,7 +28610,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                585,
+                                586,
                                 6
                             ]
                         ]
@@ -28966,15 +28966,15 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                241,
+                                242,
                                 8
                             ],
                             [
-                                2194,
+                                2195,
                                 8
                             ],
                             [
-                                2234,
+                                2235,
                                 8
                             ]
                         ]
@@ -29467,7 +29467,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1627,
+                                1628,
                                 14
                             ]
                         ]
@@ -29535,23 +29535,23 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                958,
+                                959,
                                 8
                             ],
                             [
-                                1049,
+                                1050,
                                 8
                             ],
                             [
-                                1234,
+                                1235,
                                 8
                             ],
                             [
-                                1442,
+                                1443,
                                 8
                             ],
                             [
-                                1765,
+                                1766,
                                 8
                             ]
                         ]
@@ -30308,7 +30308,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                654,
+                                655,
                                 8
                             ]
                         ]
@@ -30450,7 +30450,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                292,
+                                293,
                                 11
                             ]
                         ]
@@ -30542,7 +30542,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                905,
+                                906,
                                 14
                             ]
                         ]
@@ -30778,7 +30778,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                819,
+                                820,
                                 10
                             ]
                         ]
@@ -30853,27 +30853,27 @@
                                 11
                             ],
                             [
-                                342,
+                                343,
                                 11
                             ],
                             [
-                                532,
+                                533,
                                 11
                             ],
                             [
-                                627,
+                                628,
                                 11
                             ],
                             [
-                                717,
+                                718,
                                 11
                             ],
                             [
-                                1469,
+                                1470,
                                 11
                             ],
                             [
-                                1536,
+                                1537,
                                 11
                             ]
                         ]
@@ -31376,7 +31376,7 @@
                                 10
                             ],
                             [
-                                1928,
+                                1929,
                                 10
                             ]
                         ]
@@ -32313,7 +32313,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1324,
+                                1325,
                                 7
                             ]
                         ]
@@ -32818,19 +32818,19 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                669,
+                                670,
                                 9
                             ],
                             [
-                                1266,
+                                1267,
                                 9
                             ],
                             [
-                                1985,
+                                1986,
                                 9
                             ],
                             [
-                                2268,
+                                2269,
                                 9
                             ]
                         ]
@@ -33185,7 +33185,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                308,
+                                309,
                                 4
                             ]
                         ]
@@ -33243,7 +33243,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2288,
+                                2289,
                                 9
                             ]
                         ]
@@ -33381,7 +33381,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                837,
+                                838,
                                 7
                             ]
                         ]
@@ -34164,11 +34164,11 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                899,
+                                900,
                                 5
                             ],
                             [
-                                1406,
+                                1407,
                                 5
                             ]
                         ]
@@ -34894,7 +34894,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                322,
+                                323,
                                 10
                             ]
                         ]
@@ -35240,7 +35240,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1660,
+                                1661,
                                 5
                             ]
                         ]
@@ -35456,7 +35456,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2304,
+                                2305,
                                 7
                             ]
                         ]
@@ -35497,7 +35497,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1976,
+                                1977,
                                 8
                             ]
                         ]
@@ -35651,23 +35651,23 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                278,
+                                279,
                                 4
                             ],
                             [
-                                357,
+                                358,
                                 4
                             ],
                             [
-                                452,
+                                453,
                                 4
                             ],
                             [
-                                1115,
+                                1116,
                                 4
                             ],
                             [
-                                2108,
+                                2109,
                                 4
                             ]
                         ]
@@ -36129,7 +36129,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1718,
+                                1719,
                                 4
                             ]
                         ]
@@ -36312,15 +36312,15 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                993,
+                                994,
                                 3
                             ],
                             [
-                                1076,
+                                1077,
                                 3
                             ],
                             [
-                                1843,
+                                1844,
                                 3
                             ]
                         ]
@@ -37126,55 +37126,55 @@
                                 2
                             ],
                             [
-                                354,
+                                355,
                                 2
                             ],
                             [
-                                413,
+                                414,
                                 2
                             ],
                             [
-                                544,
+                                545,
                                 2
                             ],
                             [
-                                562,
+                                563,
                                 2
                             ],
                             [
-                                639,
+                                640,
                                 2
                             ],
                             [
-                                729,
+                                730,
                                 2
                             ],
                             [
-                                862,
+                                863,
                                 2
                             ],
                             [
-                                1317,
+                                1318,
                                 2
                             ],
                             [
-                                1368,
+                                1369,
                                 2
                             ],
                             [
-                                1481,
+                                1482,
                                 2
                             ],
                             [
-                                1548,
+                                1549,
                                 2
                             ],
                             [
-                                1642,
+                                1643,
                                 2
                             ],
                             [
-                                2036,
+                                2037,
                                 2
                             ]
                         ]
@@ -37235,7 +37235,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1511,
+                                1512,
                                 3
                             ]
                         ]
@@ -37852,15 +37852,15 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                171,
+                                172,
                                 2
                             ],
                             [
-                                319,
+                                320,
                                 2
                             ],
                             [
-                                1912,
+                                1913,
                                 2
                             ]
                         ]
@@ -37933,7 +37933,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                704,
+                                705,
                                 3
                             ]
                         ]
@@ -38461,7 +38461,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1153,
+                                1154,
                                 8
                             ]
                         ]
@@ -39099,7 +39099,11 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1320,
+                                175,
+                                3
+                            ],
+                            [
+                                1321,
                                 3
                             ]
                         ]
@@ -39267,7 +39271,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1332,
+                                1333,
                                 4
                             ]
                         ]
@@ -39317,7 +39321,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1023,
+                                1024,
                                 5
                             ]
                         ]
@@ -39334,7 +39338,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                575,
+                                576,
                                 5
                             ]
                         ]
@@ -39520,7 +39524,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1607,
+                                1608,
                                 10
                             ]
                         ]
@@ -39596,7 +39600,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                516,
+                                517,
                                 12
                             ]
                         ]
@@ -40381,7 +40385,7 @@
                                 10
                             ],
                             [
-                                1338,
+                                1339,
                                 10
                             ]
                         ]
@@ -41545,19 +41549,19 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                424,
+                                425,
                                 7
                             ],
                             [
-                                873,
+                                874,
                                 7
                             ],
                             [
-                                1379,
+                                1380,
                                 7
                             ],
                             [
-                                2049,
+                                2050,
                                 7
                             ]
                         ]
@@ -41751,15 +41755,15 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                471,
+                                472,
                                 7
                             ],
                             [
-                                997,
+                                998,
                                 7
                             ],
                             [
-                                1094,
+                                1095,
                                 7
                             ]
                         ]
@@ -42282,7 +42286,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1669,
+                                1670,
                                 9
                             ]
                         ]
@@ -42555,7 +42559,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                742,
+                                743,
                                 6
                             ]
                         ]
@@ -42631,7 +42635,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1521,
+                                1522,
                                 5
                             ]
                         ]
@@ -42971,7 +42975,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                259,
+                                260,
                                 10
                             ]
                         ]
@@ -42988,7 +42992,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                606,
+                                607,
                                 11
                             ]
                         ]
@@ -43114,23 +43118,23 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                405,
+                                406,
                                 7
                             ],
                             [
-                                854,
+                                855,
                                 7
                             ],
                             [
-                                1309,
+                                1310,
                                 7
                             ],
                             [
-                                1360,
+                                1361,
                                 7
                             ],
                             [
-                                2028,
+                                2029,
                                 7
                             ]
                         ]
@@ -43163,7 +43167,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                283,
+                                284,
                                 8
                             ]
                         ]
@@ -43602,7 +43606,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1883,
+                                1884,
                                 10
                             ]
                         ]
@@ -43967,7 +43971,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                191,
+                                192,
                                 7
                             ]
                         ]
@@ -44018,7 +44022,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                763,
+                                764,
                                 8
                             ]
                         ]
@@ -44309,7 +44313,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2248,
+                                2249,
                                 7
                             ]
                         ]
@@ -44537,7 +44541,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                388,
+                                389,
                                 7
                             ]
                         ]
@@ -44612,15 +44616,15 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                479,
+                                480,
                                 7
                             ],
                             [
-                                1005,
+                                1006,
                                 7
                             ],
                             [
-                                1102,
+                                1103,
                                 7
                             ]
                         ]
@@ -44662,7 +44666,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                212,
+                                213,
                                 8
                             ]
                         ]
@@ -44805,7 +44809,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1647,
+                                1648,
                                 4
                             ]
                         ]
@@ -45017,7 +45021,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1496,
+                                1497,
                                 7
                             ]
                         ]
@@ -45183,7 +45187,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1853,
+                                1854,
                                 3
                             ]
                         ]
@@ -45301,7 +45305,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1798,
+                                1799,
                                 7
                             ]
                         ]
@@ -45409,7 +45413,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                273,
+                                274,
                                 4
                             ]
                         ]
@@ -45459,7 +45463,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1726,
+                                1727,
                                 4
                             ]
                         ]
@@ -46472,19 +46476,19 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1043,
+                                1044,
                                 5
                             ],
                             [
-                                1228,
+                                1229,
                                 5
                             ],
                             [
-                                1436,
+                                1437,
                                 5
                             ],
                             [
-                                1759,
+                                1760,
                                 5
                             ]
                         ]
@@ -46724,7 +46728,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1921,
+                                1922,
                                 6
                             ]
                         ]
@@ -47876,23 +47880,23 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                967,
+                                968,
                                 4
                             ],
                             [
-                                1038,
+                                1039,
                                 4
                             ],
                             [
-                                1223,
+                                1224,
                                 4
                             ],
                             [
-                                1431,
+                                1432,
                                 4
                             ],
                             [
-                                1754,
+                                1755,
                                 4
                             ]
                         ]
@@ -47996,11 +48000,11 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                800,
+                                801,
                                 6
                             ],
                             [
-                                1576,
+                                1577,
                                 6
                             ]
                         ]
@@ -48435,11 +48439,11 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                362,
+                                363,
                                 4
                             ],
                             [
-                                2113,
+                                2114,
                                 4
                             ]
                         ]
@@ -48668,11 +48672,11 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                649,
+                                650,
                                 4
                             ],
                             [
-                                2243,
+                                2244,
                                 4
                             ]
                         ]
@@ -49687,59 +49691,55 @@
                                 3
                             ],
                             [
-                                174,
+                                238,
                                 3
                             ],
                             [
-                                237,
+                                417,
                                 3
                             ],
                             [
-                                416,
+                                556,
                                 3
                             ],
                             [
-                                555,
+                                566,
                                 3
                             ],
                             [
-                                565,
+                                680,
                                 3
                             ],
                             [
-                                679,
+                                733,
                                 3
                             ],
                             [
-                                732,
+                                866,
                                 3
                             ],
                             [
-                                865,
+                                1091,
                                 3
                             ],
                             [
-                                1090,
+                                1372,
                                 3
                             ],
                             [
-                                1371,
+                                1715,
                                 3
                             ],
                             [
-                                1714,
+                                2040,
                                 3
                             ],
                             [
-                                2039,
+                                2160,
                                 3
                             ],
                             [
-                                2159,
-                                3
-                            ],
-                            [
-                                2190,
+                                2191,
                                 3
                             ]
                         ]
@@ -50036,7 +50036,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                510,
+                                511,
                                 5
                             ]
                         ]
@@ -51773,19 +51773,19 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                270,
+                                271,
                                 2
                             ],
                             [
-                                499,
+                                500,
                                 2
                             ],
                             [
-                                1723,
+                                1724,
                                 2
                             ],
                             [
-                                2187,
+                                2188,
                                 2
                             ]
                         ]
@@ -52272,19 +52272,19 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                382,
+                                383,
                                 5
                             ],
                             [
-                                569,
+                                570,
                                 5
                             ],
                             [
-                                1017,
+                                1018,
                                 5
                             ],
                             [
-                                2181,
+                                2182,
                                 5
                             ]
                         ]
@@ -52365,7 +52365,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2260,
+                                2261,
                                 7
                             ]
                         ]
@@ -52586,15 +52586,15 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                683,
+                                684,
                                 6
                             ],
                             [
-                                1276,
+                                1277,
                                 6
                             ],
                             [
-                                1995,
+                                1996,
                                 6
                             ]
                         ]
@@ -52794,7 +52794,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1129,
+                                1130,
                                 5
                             ]
                         ]
@@ -52884,7 +52884,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2163,
+                                2164,
                                 3
                             ]
                         ]
@@ -53444,7 +53444,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                491,
+                                492,
                                 7
                             ]
                         ]
@@ -53803,7 +53803,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1553,
+                                1554,
                                 11
                             ]
                         ]
@@ -53919,7 +53919,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1731,
+                                1732,
                                 13
                             ]
                         ]
@@ -53952,7 +53952,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1485,
+                                1486,
                                 7
                             ]
                         ]
@@ -54246,7 +54246,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1894,
+                                1895,
                                 8
                             ]
                         ]
@@ -54263,15 +54263,15 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                529,
+                                530,
                                 2
                             ],
                             [
-                                559,
+                                560,
                                 2
                             ],
                             [
-                                1840,
+                                1841,
                                 2
                             ]
                         ]
@@ -54296,7 +54296,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1080,
+                                1081,
                                 5
                             ]
                         ]
@@ -54313,7 +54313,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                948,
+                                949,
                                 6
                             ]
                         ]
@@ -54898,11 +54898,11 @@
                                 7
                             ],
                             [
-                                920,
+                                921,
                                 7
                             ],
                             [
-                                1412,
+                                1413,
                                 7
                             ]
                         ]
@@ -55389,7 +55389,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1692,
+                                1693,
                                 5
                             ]
                         ]
@@ -55835,15 +55835,15 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                437,
+                                438,
                                 7
                             ],
                             [
-                                886,
+                                887,
                                 7
                             ],
                             [
-                                1392,
+                                1393,
                                 7
                             ]
                         ]
@@ -55884,7 +55884,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                2062,
+                                2063,
                                 8
                             ]
                         ]
@@ -55975,7 +55975,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1583,
+                                1584,
                                 3
                             ]
                         ]
@@ -56487,7 +56487,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1681,
+                                1682,
                                 6
                             ]
                         ]
@@ -56866,11 +56866,11 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                178,
+                                179,
                                 7
                             ],
                             [
-                                1875,
+                                1876,
                                 7
                             ]
                         ]
@@ -56954,7 +56954,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                690,
+                                691,
                                 4
                             ]
                         ]
@@ -57270,7 +57270,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                663,
+                                664,
                                 5
                             ]
                         ]
@@ -57942,35 +57942,35 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                186,
+                                187,
                                 4
                             ],
                             [
-                                445,
+                                446,
                                 4
                             ],
                             [
-                                814,
+                                815,
                                 4
                             ],
                             [
-                                894,
+                                895,
                                 4
                             ],
                             [
-                                1110,
+                                1111,
                                 4
                             ],
                             [
-                                1400,
+                                1401,
                                 4
                             ],
                             [
-                                2103,
+                                2104,
                                 4
                             ],
                             [
-                                2203,
+                                2204,
                                 4
                             ]
                         ]
@@ -58068,7 +58068,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1171,
+                                1172,
                                 5
                             ]
                         ]
@@ -58305,7 +58305,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                830,
+                                831,
                                 2
                             ]
                         ]
@@ -58330,7 +58330,7 @@
                     "/pick/the-board/latest-updates/": {
                         "position": [
                             [
-                                1942,
+                                1943,
                                 7
                             ]
                         ]
